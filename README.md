@@ -14,6 +14,10 @@ We can examine the anatomy of exponential growth by studying price theory. For e
 
 On the other hand as Wrigth's law states that for every cumulative doubling of units produced, costs will fall by a constant percentage. These together create a feedback loop that can result in a sustainable exponential growth, until the product saturates the market.
 
+## Growth and company valuation
+Since a company's intrinsic value is tied to it's performance, long term the company'y growth and valuation correlate. Short term the valuation of a company can greatly differ from it's intrinsic value, but eventually it should align itself with the true value.
+
 ## Renewables
 
 The last paradigm shift was the smartphone, right now renewables are on the rise. This means total electrification of production, storage and consumption of the energy sector. On the production and consumption side things are looking good, storage seems to be the current bottleneck. Solar, wind and batteries are a powerful trio that can replace the current energy market. As with any other disruption adoption takes place as an S-curve, where early adoption is slow. We are currently entering the rapid growth phase which presents multiple investment opportunities.
+
