@@ -4,9 +4,9 @@ My goal is to assemble a portfolio that can **10x in a decade**.
 ```math
 \sqrt[10]{10} = 1,2589254118
 ```
-That means an **average CAGR of 25%** which would be a pretty impressive performance.
+That means an **average CAGR of 25%** which would be a pretty impressive performance. Some would argue, that only institutional investors can achive 20% returns reliably and anything above is just not realistic. However they have to obey laws of diversification (one position no more than 5%) so even if they knew the perfect investment to pick they would have to dilute the position with the other 95% that performs worse. On the other hand there are analysts out there who have pretty accurate long term predictions that vastly outperform the big investors, because giving valuations doesn't come with the same regulations as actually running the fund.
 
-Since the global economy is only growing at around 3% this rate this may seems unsustainable. However during paradigm changes disruptive companies can vastly outperform any index. These take shape in S-curves as innovators grow exponantially while incumbents struggle and face rapid decay. Given a long enough timeframe (multi decade) and through "riding" these innovation S-curve growth waves I believe it is possible as a retail investor to achive such results.
+So much about the investors, but the global economy is only growing at around 3% so this 25% rate may seems unsustainable. However during paradigm changes disruptive companies can vastly outperform any global index. These take shape in S-curves as innovators grow exponantially while incumbents struggle and face rapid decay. Given a long enough timeframe (multi decade) and through "riding" these innovation S-curve growth waves I believe it is possible as a retail investor to achive such results.
 
 ## Exponential growth
 
